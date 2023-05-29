@@ -4,7 +4,7 @@ const { unwatchFile, watchFile } = require('fs')
 //=============『 Utama 』================== //
 global.Owner = {
 // use the phone number with the country code, for example Indonesia "62" America "1" etc
-"6289520306297": { // 6289520306297
+"62895634018585": { // 6289520306297
 name: "Zevano",
 isReport: true, // if true this number will send if user use command /report or /join
 isCreator: true, // if true this number will send if user use command /owner or /creator
